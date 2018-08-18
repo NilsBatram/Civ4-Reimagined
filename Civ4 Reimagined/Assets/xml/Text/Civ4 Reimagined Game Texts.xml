@@ -1394,4 +1394,11 @@
 		<Tag>TXT_KEY_MISC_YOUR_AIR_UNIT_DAMAGED</Tag>
 		<English>Your %s1_UnitName was damaged by an enemy %s2_EnUName (%d3%% HP)</English>
 	</TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_SAME_IDEOLOGY</Tag>
+		<English>%D1: "We share the same Ideology."</English>
+	</TEXT>
+	<TEXT>
+		<Tag>TXT_KEY_MISC_ATTITUDE_DIFFERENT_IDEOLOGY</Tag>
+		<English>%D1: "We cannot agree with your Idelogy"</English>
+	</TEXT>
 </Civ4GameText>
